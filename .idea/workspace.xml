@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c744f974-ac08-4ef3-b4ba-78f258cacc6f" name="Changes" comment="created printers">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Person.java" afterDir="false" />
+    <list default="true" id="c744f974-ac08-4ef3-b4ba-78f258cacc6f" name="Changes" comment="Generics Printer + List">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Dog.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Printer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +78,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660779783451</updated>
       <workItem from="1660779786506" duration="339000" />
-      <workItem from="1661891946146" duration="1752000" />
+      <workItem from="1661891946146" duration="4130000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1660780066008</created>
@@ -93,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661892550091</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Generics Printer + List">
+      <created>1661893866496</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1661893866496</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="created printers" />
-    <option name="LAST_COMMIT_MESSAGE" value="created printers" />
+    <MESSAGE value="Generics Printer + List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics Printer + List" />
   </component>
 </project>
