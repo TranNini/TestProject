@@ -40,5 +40,15 @@ public class Application {
         Animal lori = new Cat(5.1, 37.1, "lori", 2, true);
         Dog lori2 = (Dog) lori;
         lori2.bark();
+
+        boolean condition = true;
+        // regular if
+        if (condition) {
+            System.out.println("it's true");
+        } else {
+            System.out.println("it's false");
+        }
+        // Ternary operator:
+        System.out.println(condition ? "it's true" : "it's false");
     }
 }
