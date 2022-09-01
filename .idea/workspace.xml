@@ -5,10 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c744f974-ac08-4ef3-b4ba-78f258cacc6f" name="Changes" comment="Class, casting example">
-      <change afterPath="$PROJECT_DIR$/src/main/java/employee/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/employee/EmployeeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tictactoe/TicTacToeApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/tictactoe/TicTacToeBoard.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Cat.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DoublePrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/IntegerPrinter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Printer.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +58,11 @@
       <recent name="" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="animals" />
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.EmployeeApp">
+  <component name="RunManager" selected="Application.TicTacToeApp">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Application" />
       <module name="TestProject" />
@@ -82,8 +90,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TicTacToeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="tictactoe.TicTacToeApp" />
+      <module name="TestProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tictactoe.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TicTacToeApp" />
         <item itemvalue="Application.EmployeeApp" />
         <item itemvalue="Application.Employee2App" />
         <item itemvalue="Application.Application" />
@@ -99,7 +121,7 @@
       <option name="presentableId" value="Default" />
       <updated>1660779783451</updated>
       <workItem from="1660779786506" duration="339000" />
-      <workItem from="1661891946146" duration="8496000" />
+      <workItem from="1661891946146" duration="12898000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1660780066008</created>
@@ -129,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1661926230391</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Class, casting example">
+      <created>1661978717303</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1661978717303</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
