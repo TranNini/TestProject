@@ -23,6 +23,10 @@ public class TicTacToeBoard {
         }
 
     }
+    //  another option for reset
+    //   public void reset () {
+    //        for (final Opponent[] contentRow : this.content) {
+    //            Arrays.fill(contentRow, null);
     public void set(int rank, int file) {
 
         if (this.content[rank][file] == null) {
@@ -63,4 +67,5 @@ public class TicTacToeBoard {
         return factory.toString();
     }
 }
+
 
