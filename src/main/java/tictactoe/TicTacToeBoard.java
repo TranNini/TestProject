@@ -39,6 +39,16 @@ public class TicTacToeBoard {
             System.out.println("GEWONNEN");
         }
     }
+
+    //static private void processSetCommand (final TicTacToeBoard board, final String arguments) {
+    //       final Opponent activePlayer = board.getActivePlayer();
+    //       final String[] coordinateTexts = arguments.split("\\s+");
+    //       final int rank = Integer.parseInt(coordinateTexts[0]);
+    //       final int file = Integer.parseInt(coordinateTexts[1]);
+    //       board.set(rank, file);
+    //       if (board.isWon())
+    //       System.out.format("Player %s won this match, reset board to continue!%n", activePlayer);
+    //       }
     public boolean isWon() {
         //TODO:
 
